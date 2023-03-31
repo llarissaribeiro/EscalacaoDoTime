@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./images/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  min-height: 100vh;
+}
+
+.formBody {
+  background-color: rgba(19, 18, 18, 0.60);
+  width: 700px;
+  height: auto;
+  color: white;
+  border-radius: 20px;
+}
+
+.formTitle{
+  padding-top: 20px;
+}
+
+input{
+  background-color: #ffffff00;
+  border-radius: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 5px;
+  margin: 5px 10px;
+
+  color: white;
+
+}
+
+.addBtn {
+  color: #00ff15;
+  border: 1px solid #00ff15;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.addBtn:hover {
+  background-color: #00ff15;
+  color: rgb(0, 0, 0);
+}
+
+.removeBtn {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.removeBtn:hover {
+  background-color: #ff0043;
+  color: white;
+}
+
+h4{
+  padding-bottom: 10px;
+}
+
+#teamList{
+  padding-bottom: 20px;
+}
+
+.footer {
+  color: white;
+  padding-top: 20px;
+}
