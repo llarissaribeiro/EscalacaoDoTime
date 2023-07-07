@@ -1,16 +1,22 @@
-### Escalação do Time
+<h1 align='center'>Escalação de Time</h1>
 
-Construa uma página web que permita montar a escalação de um time de jogadores. Nele deverá ser possível:
+<p align="center"> Projeto de uma página web que permite montar a escalação de um time de jogadores de futebol</p>
 
-- Escalar um jogador
-    - Informar a posição do jogador a ser escalado para o time.
-    - Informar o nome do jogador.
-    - Informar o número da camisa do jogador.
-    - Ter um botão “Escalar” que pergunta ao usuário se ele deseja confirmar a escalação daquele jogador e então insere as informações em uma lista na página.
-    - Após o jogador ser escalado os campos de texto devem ser limpos.
-- Remover um jogador
-    - Informar o número da camisa do jogador.
-    - Ter um botão “Remover” que pergunta ao usuário se ele deseja confirmar a remoção daquele jogador e então exclui ele da lista na página.
-    - Após o jogador ser removido o campo de texto deve ser limpo.
+![Captura de tela 2023-07-07 163556](https://github.com/llarissaribeiro/EscalacaoDoTime/assets/118293780/fca9bcc3-62e5-4079-92eb-379d01e20959)
 
-Dica: lembrando que é possível acessar o texto de um input através da propriedade value.
+
+<h1>🧮 Funcionalidades</h1>
+<br> - Informar a posição do jogador a ser escalado para o time.
+<br> - Informar o nome do jogador
+<br> - Informar o número da camisa do jogador
+<br> - Remover um jogador
+<br> - Botão para escalar ou remover um jogador com confirmação</p>
+
+<h1>💻 Deploy da Aplicação com GitHub Pages</h1>
+https://llarissaribeiro.github.io/EscalacaoDoTime/
+
+<h1>🚀 Tecnologias</h1>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+
